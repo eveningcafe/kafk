@@ -13,11 +13,16 @@ Kafka is a publish-subscribe distributed, partitioned, replicated commit log ser
 
 ### 
 ### Reference
+https://dataartblog.wordpress.com/2015/08/28/gioi-thieu-ve-kafka/
+https://www.techblog.vn/tim-hieu-ve-apache-kafka
+
+https://www.tutorialspoint.com/apache_kafka/index.htm
+
 https://techbeacon.com/what-apache-kafka-why-it-so-popular-should-you-use-it
 
 https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/?fbclid=IwAR3A_Lcl7sgRTinzJUUwyQwNBm8V_3vCokFXuZcomXD1NlPNDmpb34f41po
 
-https://www.tutorialspoint.com/apache_kafka/index.htm
+
 
 https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l
 
